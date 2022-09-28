@@ -1,12 +1,3 @@
-Moin, I'm Sascha Lorenz, a database nerd.
+Moin, I'm Sascha Lorenz, a passionate database nerd and gopher.
 
-- 👋 Hi, I’m @sasloz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sasloz/sasloz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Therefore you will find here primarily stuff about databases and the programming language Go.
